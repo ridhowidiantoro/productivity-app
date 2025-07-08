@@ -13,15 +13,6 @@ Aplikasi ini **dibuat menggunakan Flutter** dan hanya mencakup bagian **frontend
 - 🎨 Memilih warna latar belakang sesuai preferensi pengguna
 - 📱 Desain minimalis, modern, dan mobile-friendly
 
----
-
-## 🖼️ Tampilan Antarmuka
-
-![Productivity App UI](https://user-images.githubusercontent.com/ridhowidiantor/producvityAPP.png)  
-*Contoh tampilan Productivity App saat semua tugas selesai*
-
----
-
 ## 🛠️ Teknologi yang Digunakan
 
 - Flutter SDK (Dart)
